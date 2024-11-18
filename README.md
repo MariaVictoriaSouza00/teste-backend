@@ -11,9 +11,11 @@ o docker-compose vai criar um container de um MySQL e você poderá acessar via 
 ### Para iniciar o servidor express basta executar o seguinte comando:
 
     npm start
-    ou
-    yarn start
+    
+### Instalar o Modulos do Node
 
-Depois que concluir seu teste não de enviar o seu código junto a pasta data, nela está salvo o volume do MySQL criado pelo docker.
+    npm install 
+### Instalar as dependencias
 
-Boa sorte =)
+    npm install dotenv
+    npm install mysql2
