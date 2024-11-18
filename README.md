@@ -16,7 +16,9 @@ o docker-compose vai criar um container de um MySQL e você poderá acessar via 
     npm install dotenv
     npm install mysql2
 ### Adicionar configurações do Banco de dados no arquivo .env 
-    ![image](https://github.com/user-attachments/assets/e0333399-b7be-42ed-9154-b313fb9f9cc3)
+    ![Texto alternativo](![image](https://github.com/user-attachments/assets/c3a8273f-7773-42ac-9c9e-1cf608af6882)
+)
+
 
 ### Para iniciar o servidor express basta executar o seguinte comando:
 
