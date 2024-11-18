@@ -62,7 +62,7 @@ o docker-compose vai criar um container de um MySQL e você poderá acessar via 
     npm start
 ### Para testar o endpoint utilizar a rota:
 
-      http://localhost:{numerodaSuaPora}/pessoa/cadastrar
+      http://localhost:{numerodaSuaPorta}/pessoa/cadastrar
 
 ### Exemplo de JSON para testar a rota: 
 
